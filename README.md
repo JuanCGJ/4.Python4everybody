@@ -17,10 +17,16 @@ emaildb.sqlite = week2_2.sqlite: Final sqlite database as output of week2_2.py.
 
 week 3:
 
-Assignement3,  
+Assignement3.pdf,  
 Library.xml: xml tracks list,   
 tracks.py: code to create database "trackdb.sqlite" with tables Album-Artist-Track,  
 trackdb.sqlite: Database,  
 week3.py,  
 week3.sqlite  
 
+week 4:
+
+Assignement4.pdf,  
+roaster_data_sample.json:,  
+roasterdb.sqlite,  
+week4_roaster.py   
