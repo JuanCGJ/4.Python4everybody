@@ -16,9 +16,9 @@ week2_2.py: code to create emaildb.sqlite,
 emaildb.sqlite = week2_2.sqlite: Final sqlite database as output of week2_2.py.
 
 week 3:
-Assignement3, 
-Library.xml: xml tracks list, 
-trackdb.sqlite, 
-tracks.py, 
-week3.py, 
+Assignement3,
+Library.xml: xml tracks list,
+trackdb.sqlite,
+tracks.py,
+week3.py,
 week3.sqlite 
