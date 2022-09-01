@@ -27,6 +27,16 @@ week3.sqlite
 week 4:
 
 Assignement4.pdf,  
-roaster_data_sample.json:,  
+roaster_data_sample.json,  
 roasterdb.sqlite,  
 week4_roaster.py   
+
+week 5:
+
+Assignement5.pdf,  
+geodata.zip,  
+geodumppyOUTPUT.PNG,  
+geoloadpyOUTPUT.PNG,  
+wherehtmlOUTPUT.PNG   
+
+
