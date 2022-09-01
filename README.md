@@ -6,12 +6,7 @@ This course will introduce students to the basics of the Structured Query Langua
 Here you will find descriptions and solutions of each week's assignements in the Course. Additionaly you will find:
 
 week 2:
-Assignement2_1.pdf.
-Assignement2_2.pdf.
-mbox.txt: mail box data.
-week2_1.db : database of assignement week2_1.
-asnwers_week2_1.txt: answer week2_1.
-week2_2.py: code to create emaildb.sqlite.
-emaildb.sqlite = week2_2.sqlite: Final sqlite database as output of week2_2.py.
+
+Assignement2_1.pdf, Assignement2_2.pdf, mbox.txt: mail box data,  week2_1.db : database of assignement week2_1,  asnwers_week2_1.txt: answer week2_1,  week2_2.py: code to create emaildb.sqlite, emaildb.sqlite = week2_2.sqlite: Final sqlite database as output of week2_2.py.
 
 week 3:
